@@ -1,2 +1,1 @@
-# info2180-project2
-My Puzzle Play Game
+# INFO2180 - Project 2 - The Fifteen Puzzle
